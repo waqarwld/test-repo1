@@ -1,5 +1,5 @@
 name: My First Workflow
-on: push
+on: dispatch
 jobs:
   job-1:
     runs-on: ubuntu-latest
